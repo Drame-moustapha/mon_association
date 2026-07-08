@@ -1,11 +1,27 @@
-# Frontend README (updated)
+# Frontend
 
-J'ai ajouté un squelette d'app Angular minimal dans frontend/src pour vous permettre de démarrer rapidement.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
 
-Pour lancer le frontend :
-1. Depuis frontend/ installez les dépendances : npm install
-2. Lancer l'application : npm start
+## Development server
 
-Notes :
-- Ce squelette est volontairement minimal (quelques composants et services). Pour une application complète, utilisez `ng new` et déplacez ces services/composants dans le projet généré.
-- L'application suppose que le backend est accessible sur la même origine ou via proxy. Pour développement, configurez un proxy ou activez CORS côté backend.
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
