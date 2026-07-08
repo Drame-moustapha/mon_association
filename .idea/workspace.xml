@@ -5,49 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25fd3590-5384-4724-a59b-6e75bf5082da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/app/login.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/app/services/auth.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/app/services/token.interceptor.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend_old/src/main.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/dto/CreateUserRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/dto/CreateUserRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/dto/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/dto/LoginRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/Activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/Activity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/Committee.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/Committee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/entity/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/association/security/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/association/security/JwtUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/main.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +80,7 @@
       <workItem from="1783439790253" duration="305000" />
       <workItem from="1783440437139" duration="3737000" />
       <workItem from="1783444245828" duration="256000" />
-      <workItem from="1783444537099" duration="4231000" />
+      <workItem from="1783444537099" duration="5414000" />
     </task>
     <servers />
   </component>
